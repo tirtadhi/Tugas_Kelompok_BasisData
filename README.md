@@ -20,5 +20,5 @@ https://github.com/tirtadhi/Tugas_Kelompok_BasisData.git
 
 ## Author
 ##### [Rasel Rubianto](https://www.linkedin.com/in/rasel-rubianto-738642232/)
-##### [Rizky Ramadhan]()
+##### [Rizky Ramadhan](https://www.linkedin.com/in/rizky-ramadhan-9b7ba3286)
 ##### [Tirta Adhi Samsara](https://www.linkedin.com/in/tirtaadhisamsara/)
