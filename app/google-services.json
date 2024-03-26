@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43081535840",
+    "project_id": "harvesttech-35db4",
+    "storage_bucket": "harvesttech-35db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43081535840:android:4990f69880bbacc72ece05",
+        "android_client_info": {
+          "package_name": "com.example.harvesttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8SZ3FSYXPeZmjaKEVeNcCkIFqcnFaQNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

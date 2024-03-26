@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HarvestTech</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="jalankan">Go!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="content_description_logo">Logo</string>
+    <string name="daging">Daging</string>
+    <string name="sayur">Sayur</string>
+    <string name="buah">Buah</string>
+    <string name="ikan">Ikan</string>
+    <string name="burung">Burung</string>
+    <string name="kue">Kue</string>
+    <string name="submit">Submit</string>
+</resources>
