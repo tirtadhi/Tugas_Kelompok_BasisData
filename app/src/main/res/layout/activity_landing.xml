@@ -40,6 +40,44 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/tv_logo_splash" />
 
+        <TextView
+            android:id="@+id/klpk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kelompok 8:"
+            android:layout_marginTop="5dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_appRRTI"/>
+
+        <TextView
+            android:id="@+id/rasel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rasel Rubianto"
+            android:layout_marginTop="5dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/klpk"/>
+
+        <TextView
+            android:id="@+id/rizky"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rizky Ramadhan"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/rasel"/>
+
+        <TextView
+            android:id="@+id/tirta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tirta Adhi Samsara"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/rizky"/>
+
         <Button
             android:id="@+id/btn_go"
             android:layout_width="120dp"
@@ -50,7 +88,7 @@
             android:textColor="@color/white"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/tv_appRRTI" />
+            app:layout_constraintTop_toBottomOf="@id/tirta" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
